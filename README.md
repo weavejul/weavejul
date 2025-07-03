@@ -37,10 +37,9 @@ Don't hesitate to email me or connect with me on LinkedIn!
 
 ## What do I do?
 
-- 🔬 AI Researcher developing novel methods in neuromorphic AI, AI explainability, and predictive coding reinforcement learning.
-- 🤝 Founder and Community Builder. I'm a health tech startup founder, and co-founded Longhorn Neurotech, the world's largest student-run neurotechnology organization.
-- 👨‍🏫 Educator and Content Creator. I design and teach lecture series on computational neuroscience and AI. View some of my material here!
-- 💡 Software Engineer building impactful products for real-world challenges like developing full-stack, HIPAA-compliant applications to improve healthcare using LLMs.
+- AI Researcher developing novel methods in neuromorphic AI, AI explainability, and predictive coding reinforcement learning.
+- Founder and Community Builder. I'm a health tech startup co-founder, and co-founded Longhorn Neurotech, the world's largest student-run neurotechnology organization.
+- Educator and Content Creator. I designed and taught a lecture series on computational neuroscience and AI @ UT Austin. View some of my material [here](https://github.com/LonghornNeurotech/LHNT-Synposium)!
 
 
 💻 Technologies & Tools
