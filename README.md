@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 - Compsci + Neuroscience + Business grad from UT Austin
 - Located: Houston, TX
 
-I'm a software engineer, neuroscience researcher, and founder working at the intersection of comp neuro, neurotech, and artificial intelligence. I enjoy building things that have the potential to expand our understanding of intelligent systems. **Currently open for work!**
+**Currently open for work!**
+
+I'm a software engineer, neuroscience researcher, and founder working at the intersection of comp neuro, neurotech, and artificial intelligence. I enjoy building things that have the potential to expand our understanding of intelligent systems.
 
 > "One of the difficulties in understanding the brain is that it is like nothing so much as a lump of porridge." - Dr. Richard Gregory
 
