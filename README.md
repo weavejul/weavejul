@@ -42,8 +42,6 @@ Don't hesitate to email me or connect with me on LinkedIn!
 - Educator and Content Creator. I designed and taught a lecture series on computational neuroscience and AI @ UT Austin. View some of my material [here](https://github.com/LonghornNeurotech/LHNT-Synposium)!
 
 
-💻 Technologies & Tools
-
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 10px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48"/>
