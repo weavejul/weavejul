@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 - Compsci + Neuroscience + Business grad from UT Austin
 - Located: Houston, TX
 
-**Currently open for work!**
-
-I'm a software engineer, neuroscience researcher, and founder working at the intersection of comp neuro, neurotech, and artificial intelligence. I enjoy building things that have the potential to expand our understanding of intelligent systems.
+I'm a software engineer, neuroscience researcher, and founder working at the intersection of computational neuroscience, neurotech, and AI. I enjoy building things that expand our understanding of intelligent systems- especially ourselves!
 
 > "One of the difficulties in understanding the brain is that it is like nothing so much as a lump of porridge." - Dr. Richard Gregory
 
@@ -34,15 +32,6 @@ Don't hesitate to email me or connect with me on LinkedIn!
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 </p>
-
----
-
-## What do I do?
-
-- AI Researcher developing novel methods in neuromorphic computing, AI explainability, and predictive coding reinforcement learning.
-- Founder and Community Builder. I co-founded [Longhorn Neurotech](https://www.linkedin.com/company/lhneurotech/posts/?feedView=all), the world's largest student-run neurotechnology organization!
-- Educator and Content Creator. I designed and taught a lecture series on computational neuroscience and AI @ UT Austin. View some of my material [here](https://github.com/LonghornNeurotech/LHNT-Synposium)!
-
 
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 10px;">
