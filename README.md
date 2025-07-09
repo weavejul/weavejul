@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - Age: 20
-- Compsci + Neuroscience + Business grad from UT Austin
+- Computer Science + Neuroscience + Business grad from UT Austin
 - Located: Houston, TX
 
 I'm a software engineer, neuroscience researcher, and founder working at the intersection of computational neuroscience, neurotech, and AI. I enjoy building things that expand our understanding of intelligent systems- especially ourselves!
