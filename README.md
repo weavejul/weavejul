@@ -40,18 +40,6 @@ Don't hesitate to email me or connect with me on LinkedIn!
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="48" height="48"/>
 </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="48" height="48"/>
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48"/>
-</a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="48" height="48"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
-</a>
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer" style="margin-right: 10px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="48" height="48"/>
 </a>
